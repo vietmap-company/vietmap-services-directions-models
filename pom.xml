@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>vn.vietmap.android.test</groupId>
     <artifactId>vietmap-test</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <name>vietmap-test</name>
-    <packaging>aar</packaging>
+    <packaging>jar</packaging>
     <build>
         <plugins>
         <plugin>
